@@ -9,3 +9,5 @@ _Es una buena practica incluirlo desde el principio, se me ocurre que podria ser
 _Es tan simple como poner el nombre del archivo o directorio a ignorar._
 # ¿Que archivo cree que no deberia estar ahi?
 _Por lo que entiendo el archivo .exe esta de mas, ya que son los datos de copilacion_
+# ¿Porque no cambio nada en el git despues del commit?
+_Por lo que entiendo el .gitignore solo evita subir futuros archivos pero no los borra, si bien no subio otro .exe tampoco borrara el que ya esta subido._
