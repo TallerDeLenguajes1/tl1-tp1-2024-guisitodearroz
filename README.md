@@ -11,3 +11,5 @@ _Es tan simple como poner el nombre del archivo o directorio a ignorar._
 _Por lo que entiendo el archivo .exe esta de mas, ya que son los datos de copilacion_
 # ¿Porque no cambio nada en el git despues del commit?
 _Por lo que entiendo el .gitignore solo evita subir futuros archivos pero no los borra, si bien no subio otro .exe tampoco borrara el que ya esta subido._
+# ¿Que diferencia hay entre el punto 2,3 y el 4?
+_En este caso ya no se subio el .exe esto sucede porque ahora si se esta cumpliendo el .gitignore_
